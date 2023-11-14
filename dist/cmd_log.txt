@@ -1,0 +1,15 @@
+Time: 2023-11-14 17:38:48,055; info about command: Connected (version 2.0, client OpenSSH_9.4p1)
+Time: 2023-11-14 17:38:48,179; info about command: Authentication (password) failed.
+Time: 2023-11-14 17:38:48,180; info about command: Authentication failed for 192.168.1.17 with username=kali and password=
+Time: 2023-11-14 17:38:48,462; info about command: Connected (version 2.0, client OpenSSH_9.4p1)
+Time: 2023-11-14 17:38:48,584; info about command: Authentication (password) failed.
+Time: 2023-11-14 17:38:48,585; info about command: Authentication failed for 192.168.1.17 with username=kali and password=
+Time: 2023-11-14 17:38:53,159; info about command: Connected (version 2.0, client OpenSSH_9.4p1)
+Time: 2023-11-14 17:38:53,305; info about command: Authentication (password) successful!
+Time: 2023-11-14 17:38:53,308; info about command: Connection established to 192.168.1.17 with username=kali and password=Passw0rd
+Time: 2023-11-14 17:38:53,401; info about command: Command executed on 192.168.1.17: uname -s
+Time: 2023-11-14 17:38:53,511; info about command: Command executed on 192.168.1.17: uname -r
+Time: 2023-11-14 17:38:53,561; info about command: Command executed on 192.168.1.17: uname -m
+Time: 2023-11-14 17:38:53,613; info about command: Command executed on 192.168.1.17: uname -a
+Time: 2023-11-14 17:38:53,929; info about command: Command executed on 192.168.1.17: lsb_release -a
+Time: 2023-11-14 17:38:53,942; info about command: Connection closed: <paramiko.client.SSHClient object at 0x000001141808BC90>
